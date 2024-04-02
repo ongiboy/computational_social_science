@@ -1,1 +1,1 @@
-# Cognitive-Social-Science
+# Computational-Social-Science
