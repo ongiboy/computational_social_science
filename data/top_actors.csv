@@ -1,46 +1,46 @@
-community,actors,degree
-3,Danny Trejo,105
-3,Michael Madsen,40
-3,Bruce Dern,37
-3,Lin Shaye,36
-3,Keith David,34
-4,Anne Hathaway,62
-4,James McAvoy,55
-4,Jessica Chastain,48
-4,Marion Cotillard,48
-4,Ryan Reynolds,48
-7,Samuel L. Jackson,175
-7,Stan Lee,135
-7,Benedict Cumberbatch,126
-7,Bradley Cooper,106
-7,Scarlett Johansson,102
-13,J.K. Simmons,80
-13,Helen Mirren,71
-13,Dwayne Johnson,68
-13,Diane Lane,58
-13,Ben Affleck,57
-24,Tomokazu Seki,99
-24,Takahiro Sakurai,98
-24,Miyuki Sawashiro,97
-24,Hiroshi Kamiya,95
-24,Saori Hayami,94
-31,Fred Tatasciore,136
-31,Tara Strong,116
-31,Grey DeLisle,113
-31,Dee Bradley Baker,108
-31,Carlos Alazraqui,106
-99,Robert De Niro,124
-99,Tom Hanks,113
-99,Meryl Streep,107
-99,Steven Spielberg,98
-99,Bruce Willis,96
-140,Ralph Fiennes,89
-140,Cate Blanchett,79
-140,Liam Neeson,78
-140,Toby Jones,72
-140,Helena Bonham Carter,67
-179,Bill Hader,129
-179,Maya Rudolph,120
-179,Paul Rudd,115
-179,Will Ferrell,105
-179,Fred Armisen,94
+community,actor,degree
+0,Danny Trejo,82
+0,Eric Roberts,57
+0,Sylvester Stallone,54
+0,Dolph Lundgren,44
+0,Arnold Schwarzenegger,42
+6,Anne Hathaway,56
+6,Johnny Depp,55
+6,Liam Neeson,54
+6,Gary Oldman,53
+6,Morgan Freeman,49
+8,Will Ferrell,80
+8,James Franco,75
+8,Fred Armisen,72
+8,Will Forte,66
+8,Kristen Wiig,65
+18,Tara Strong,106
+18,Carlos Alazraqui,83
+18,John DiMaggio,77
+18,Frank Welker,70
+18,Laraine Newman,67
+24,Robert De Niro,85
+24,Meryl Streep,82
+24,Kevin Smith,81
+24,Tom Hanks,76
+24,Brad Pitt,57
+28,Samuel L. Jackson,148
+28,Stan Lee,120
+28,Benedict Cumberbatch,112
+28,Paul Rudd,91
+28,Chris Pratt,90
+35,Hiroshi Kamiya,79
+35,Tomokazu Seki,79
+35,Miyuki Sawashiro,74
+35,Takahiro Sakurai,74
+35,Jun Fukuyama,73
+61,Ralph Fiennes,75
+61,Cate Blanchett,61
+61,Michael Gambon,49
+61,Oscar Isaac,48
+61,Simon Pegg,48
+63,Jason Schwartzman,48
+63,Edward Norton,33
+63,Mathieu Amalric,33
+63,Owen Wilson,31
+63,Jude Law,27
